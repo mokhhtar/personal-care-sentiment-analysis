@@ -1,1 +1,1 @@
-# personal-care-sentiment-analysis
+Data Source Disclaimer: All original text and comments within this dataset remain the property of their respective authors on Reddit. This dataset is compiled solely for academic/research purposes to perform sentiment analysis and identify market trends. Personal identifiable information (usernames) has been scrubbed to ensure privacy.
